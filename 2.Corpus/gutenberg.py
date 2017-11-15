@@ -175,11 +175,11 @@ import nltk
 
 # from nltk.corpus import toolbox
 # print toolbox.entries('rotokas.dic')
-from nltk.corpus import wordnet as wn
-print wn.synsets('motorcar')
-# print wn.synsets('car.n.01').lemma_names
-
-print wn.lemma('car.n.01.automobile')
+# from nltk.corpus import wordnet as wn
+# print wn.synsets('motorcar')
+# # print wn.synsets('car.n.01').lemma_names
+#
+# print wn.lemma('car.n.01.automobile')
 
 
 
